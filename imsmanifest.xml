@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5xvbPKahsLN" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Getting to know Katherine</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Getting_to_know_Katherine_ORG">
+    <organization identifier="Getting_to_know_Katherine_ORG">
+      <title>Getting to know Katherine</title>
+      <item identifier="Getting_to_know_Katherine_SCO" isvisible="true" identifierref="__5xvbPKahsLN_RES">
+        <title>Getting to know Katherine</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5xvbPKahsLN_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5st8AnpG6Bx.png" />
+      <file href="mobile/5trbVJCOitO.png" />
+      <file href="mobile/5sg6S1hCtoX_XY.png" />
+      <file href="mobile/6OaB8dRFkpA.png" />
+      <file href="mobile/5WcJBbeXPB0.png" />
+      <file href="mobile/5y7NSMQUTmQ.png" />
+      <file href="mobile/6IOmJ5yPMgr.png" />
+      <file href="mobile/6XVgRm4Q4ZV.png" />
+      <file href="mobile/5uduPoXFqY4.png" />
+      <file href="mobile/6ciHU71Ayat_P_0_382_900_1217.jpg" />
+      <file href="mobile/5fWOV3Z8kOH.jpg" />
+      <file href="mobile/6ferJZPOX4F_P_194_214_593_355.jpg" />
+      <file href="mobile/6FAKpmtFm1Z.jpg" />
+      <file href="mobile/6pIN3k0dgka.png" />
+      <file href="mobile/63AbxhjkzPn.jpg" />
+      <file href="mobile/6K5uI4Etsos.png" />
+      <file href="mobile/67EEVlozN8V.png" />
+      <file href="mobile/5hJpTxzoFn7.png" />
+      <file href="mobile/5UrpFuZch4e_P_0_0_1663_935.png" />
+      <file href="mobile/6W12Hs2zx3m_XY.png" />
+      <file href="mobile/5xlGh8hFmTj.png" />
+      <file href="mobile/6m5U4R5qmxH_P_0_0_1113_1078.png" />
+      <file href="mobile/6bPjcpyYXFQ.png" />
+      <file href="story_content/video_6PoWAl3DDUE_18_160_194x346.mp4" />
+      <file href="mobile/poster_6gPftvgGFMl_video_6PoWAl3DDUE_18_160_194x346.jpg" />
+      <file href="mobile/6oHHoxFELYF.png" />
+      <file href="mobile/5gB1HvoHIZD.png" />
+      <file href="mobile/5jelB47Pmsv_P_0_0_788_799.png" />
+      <file href="mobile/6CKKeoAl9dW.png" />
+      <file href="mobile/5W55erZ4Djt.png" />
+      <file href="mobile/6EXODotn1Ic.png" />
+      <file href="mobile/5eIK2J9hOdH.png" />
+      <file href="mobile/5brzNdUkJKg.png" />
+      <file href="mobile/6biFKYdhe3x.png" />
+      <file href="mobile/62s8KrQGOYi.png" />
+      <file href="mobile/5bhIupeVtHY.png" />
+      <file href="mobile/5jTmQ5pxMeO.png" />
+      <file href="mobile/6QAUE6RjlYw.png" />
+      <file href="mobile/5w3qeXpUTm9.png" />
+      <file href="mobile/6IkFuC3pjLe.jpg" />
+      <file href="mobile/6BlUBMe0NzG.jpg" />
+      <file href="mobile/6NSo2q4Dh5q.jpg" />
+      <file href="mobile/6gxjdbhtqaV.jpg" />
+      <file href="mobile/6oXWc8mfRAF.jpg" />
+      <file href="mobile/6kA8wbMAuh4.jpg" />
+      <file href="mobile/6MGllNyhvo3.jpg" />
+      <file href="mobile/5nJwVqhtcwv.jpg" />
+      <file href="mobile/6NodMqSu0Zi.jpg" />
+      <file href="story_content/video_6LlpIshdX8O_18_160_304x338.mp4" />
+      <file href="mobile/poster_6ekqmCvBrRp_video_6LlpIshdX8O_18_160_304x338.jpg" />
+      <file href="mobile/6gFyyUx2OtZ.png" />
+      <file href="mobile/6fGcBYfWQLu.png" />
+      <file href="mobile/6EvEYwq3hs8.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aJrYsEKB20.js" />
+      <file href="html5/data/js/5s9BqZU4lRR.js" />
+      <file href="html5/data/js/5tsRxA8Ih7J.js" />
+      <file href="html5/data/js/5V7KLRSnqaE.js" />
+      <file href="html5/data/js/5WUbzaNCxKW.js" />
+      <file href="html5/data/js/69zMj1IR7Ne.js" />
+      <file href="html5/data/js/6cmZYQvz97J.js" />
+      <file href="html5/data/js/6CVu5ZrkfWC.js" />
+      <file href="html5/data/js/6ELO0DeThdO.js" />
+      <file href="html5/data/js/6EoOhAC40j8.js" />
+      <file href="html5/data/js/6fEpDeSBoEP.js" />
+      <file href="html5/data/js/6NCmEn8syt7.js" />
+      <file href="html5/data/js/6oaDE9ne766.js" />
+      <file href="html5/data/js/6PhTpW1f1V4.js" />
+      <file href="html5/data/js/6pSVjDLYa40.js" />
+      <file href="html5/data/js/6SK0PhGhMfM.js" />
+      <file href="html5/data/js/6SRegAbhmZb.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
